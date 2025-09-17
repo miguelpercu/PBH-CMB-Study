@@ -1,5 +1,5 @@
 Evolution of Primordial Black Holes and Their Impact on the Cosmic Microwave Background
-This repository contains the materials for the study "Evolution of Primordial Black Holes and Their Impact on the Cosmic Microwave Background: A Numerical Study" by Miguel Ángel Percudani (Independent Non-Conventional Scientific Researcher, Buenos Aires, Argentina) and Grok 3 (xAI, San Francisco, CA, USA), dated April 25, 2025.
+This repository contains the materials for the study "Evolution of Primordial Black Holes and Their Impact on the Cosmic Microwave Background: A Numerical Study" by Miguel Ángel Percudani (Independent Non-Conventional Scientific Researcher, Buenos Aires, Argentina), dated April 25, 2025.
 Overview
 We present a numerical study on the evolution of primordial black holes (PBHs) with an initial mass of ( 10^{12} , \mathrm{kg} ) in the early universe at redshift ( z = 1089 ), corresponding to the recombination epoch. We introduce the novel concept of "applicable time" (( t_{\mathrm{applied}} )) to adjust the temporal scale of cosmological simulations, enabling the modeling of dynamic processes such as Hawking radiation, the accumulation of dark matter (( \rho_{\mathrm{DM}} )), dark energy (( \rho_{\mathrm{DE}} )), and their impact on the cosmic microwave background (CMB).
 Key Findings
